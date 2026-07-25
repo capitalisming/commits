@@ -1,0 +1,8 @@
+# Git Ignore Rules
+node_modules/
+.env
+.env.local
+*.log
+.DS_Store
+__pycache__/
+*.pyc
